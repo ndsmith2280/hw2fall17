@@ -2,7 +2,7 @@
 #is to have a terminal  window open and an editor window with this
 #file loaded.  Make changes to this file, save them, and then
 #run 'ruby part1.rb' at the command line, this will run your program with
-#the specified test cases.  You may want to add additional test cases to
+#the specified test cases.  You may want to add additional test cases tocd ~
 #make sure that you have thoroughly tested your code.
 #Alternatively, if you are confident with rspec syntax, you can add additional
 #tests to the spec/part1_spec.rb file to thoroughly test your
